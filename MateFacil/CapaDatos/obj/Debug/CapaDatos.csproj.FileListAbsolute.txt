@@ -1,0 +1,5 @@
+C:\Users\Marco\Desktop\ING. Software\MateFacil\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Marco\Desktop\ING. Software\MateFacil\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Marco\Desktop\ING. Software\MateFacil\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\ING. Software\MateFacil\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Marco\Desktop\ING. Software\MateFacil\CapaDatos\obj\Debug\CapaDatos.pdb
